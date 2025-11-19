@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on<br>An AI-powered quiz generator built with Python, and an Android AR tool that uses Mediapipe and Unity to guide eyebrow shaping in real time.<br><br>I’m looking to collaborate on<br>Android apps (Java/Kotlin), small AI utilities in Python, and computer-vision projects that need quick prototyping.<br><br>I’m looking for help with<br>Backend setups for mobile apps, cleaner SQL Server workflows, and improving tracking accuracy in my AR project.<br><br>I’m currently learning<br>Kotlin for Android development, Unity C# scripting, Mediapipe pipelines, and practical ways to integrate LLMs into real apps.<br><br>Ask me about<br>Building tiny AI tools in Python, experimenting with AR on Android, or turning quick ideas into working prototypes.<br><br>Fun fact<br>One of my side projects started as a test script in Python and somehow grew into a full AI quiz generator.
+Im currently working on<br>An AI-powered quiz generator for stubents of diferent level, and an Android AR tool that uses Mediapipe and Unity to guide eyebrow shaping in real time.<br><br>I’m looking to collaborate on<br>Android apps (Java/Kotlin), C# , and SQL databases.<br><br>I’m looking for help with<br>Backend setups for mobile apps, cleaner SQL Server workflows, and improving tracking accuracy in my AR project.<br><br>I’m currently learning<br>Kotlin for Android development, Unity C# scripting, Mediapipe pipelines, SQL and databases, and practical ways to integrate LLMs into real apps.<br><br>Ask me about<br>Building tiny AI tools in Python, experimenting with AR on Android, or turning quick ideas into working prototypes.<br><br>Fun fact<br>One of my side projects started as a test script in Python and somehow grew into a full AI quiz generator.
 
 
 # 💻 Tech Stack:
@@ -15,4 +15,3 @@ Im currently working on<br>An AI-powered quiz generator built with Python, and a
 ---
 [![](https://visitcount.itsvg.in/api?id=IavorTsolov&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
